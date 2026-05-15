@@ -10,7 +10,7 @@ I focus on developing solutions in **AI tools, web applications and automation s
 - Langflow  
 
 ## 🧠 Interests
-AI Systems • AI Automation • Web Applications • Biomedical Systems  
+AI Systems • AI Automation • Web Applications 
 
 ## 🚀 Experience
 - Built and developed multiple **automation systems** and workflow-based solutions  
