@@ -1,6 +1,19 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I am **Wasi Muhaimin**, a Biomedical Engineering student at the Military Institute of Science and Technology (MIST). I am passionate about building intelligent and practical systems at the intersection of **AI/ML**.<br><br>I focus on developing solutions in **AI tools, web applications and automation systems**, with a strong interest in turning ideas into functional, real-world systems.<br><br>### ⚙️ Core Skills<br><br>* Python<br>* C<br>* n8n<br>* Langflow<br><br>### 🧠 Interests<br><br>AI Systems • AI Automation • Web Applications • Biomedical Systems<br><br>### 🚀 Experience<br><br>* Built and worked on multiple **automation systems** and workflow-based solutions<br><br>### 📫 Contact<br><br>
+👋 About Me
 
+I am **Wasi Muhaimin**, a Biomedical Engineering student at the Military Institute of Science and Technology (MIST). I am passionate about building intelligent and practical systems at the intersection of **AI/ML and real-world engineering problems**.
+I focus on developing solutions in **AI tools, web applications, and automation systems**, with a strong interest in turning ideas into functional, real-world applications.
+
+⚙️ Core Skills
+- Python  
+- C  
+- n8n  
+- Langflow  
+
+## 🧠 Interests
+AI Systems • AI Automation • Web Applications • Biomedical Systems  
+
+## 🚀 Experience
+- Built and developed multiple **automation systems** and workflow-based solutions  
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wasimuhaimin3@gmail.com) 
